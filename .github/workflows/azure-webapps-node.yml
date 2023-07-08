@@ -19,7 +19,7 @@
 
 on:
   push:
-    branches: [ "https-httpsrathanaphon.website.info-@noreply.github.com" ]
+    branches: [ "https//httpsrathanaphon.website.info-@noreply.github.com" ]
   workflow_dispatch:
 
 env:
