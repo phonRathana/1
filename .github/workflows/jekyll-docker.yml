@@ -2,9 +2,9 @@ name: Jekyll site CI
 
 on:
   push:
-    branches: [ "https/httpsrathanaphon.website.info-@noreply.github.com" ]
+    branches: [ "https//httpsrathanaphon.website.info-@noreply.github.com" ]
   pull_request:
-    branches: [ "https/httpsrathanaphon.website.info-@noreply.github.com" ]
+    branches: [ "https//httpsrathanaphon.website.info-@noreply.github.com" ]
 
 jobs:
   build:
