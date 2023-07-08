@@ -17,9 +17,7 @@ mobilesdk_app_id": "1:244145628679:android:a7f10297db1a854b396ca2",       
 "scopes": [https://www.googleapis.com/auth/drive"]}
 
 <meta name="google-signin-scope
-   contents profile  email address rathaphon29@gmali.com https://www.googleapis.com/auth/developerprofileshttps://www.googleapis.com/auth/developerprofiles.award reta property="og site name" content="google.com/googlee9c9e70123469956 html
-to property="og:type" content="website"meta name="theme-color" wm #8098ff
-000 ceta content="IE-Edge" http-equiv="X-UA-Compatible"> seta nanes"vimport" content="width=device-width, initial-scales       
+   contents profile  email address rathapho     
 <meta name="document-type" content="Public">
 <meta name="document-rating" content="Safe for Kids">
 <meta name="robots" content="ALL, INDEX, FOLLOW">
