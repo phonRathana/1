@@ -1,2 +1,28 @@
-
-
+body {
+  width: 300px;
+  height: 300px;
+  color: blue;
+  background: 0%;
+  margin: 0px;
+}
+ #image {
+   width: 300px;
+   height: 300px;
+   box-shadow: white;
+   background-image: white;
+   margin: square;
+   margin: center;
+ }
+ #image.profiles.logo {
+    width: 300px;
+    height: 300px;
+    box-shadow: white;
+    text-align: center;
+    background-image: none;
+    counter-reset: none;
+} 
+  #button {
+    width: 0px;
+    height: 0px;
+}
+    
