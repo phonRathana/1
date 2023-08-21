@@ -1,28 +1,31 @@
 body {
   width: 300px;
   height: 300px;
-  color: blue;
+  color:aliceblue;
   background: 0%;
   margin: 0px;
 }
- #image {
+ #Phon.Rathana.jpeg{
    width: 300px;
    height: 300px;
+   background-image: url("image../Phon.Rathana.jpeg") scroll left top;
    box-shadow: white;
    background-image: white;
-   margin: square;
+   border-image: square;
    margin: center;
  }
- #image.profiles.logo {
+ #image {
     width: 300px;
     height: 300px;
     box-shadow: white;
-    text-align: center;
+    border-image: 300px;
+    text-align: 0%;
     background-image: none;
     counter-reset: none;
+    border-image: auto;
 } 
   #button {
     width: 0px;
     height: 0px;
 }
-    
+
