@@ -6,8 +6,8 @@ body {
   margin: 0px;
 }
  #Phon.Rathana.jpeg{
-   width: 300px;
-   height: 300px;
+   width: 400px;
+   height: 4000px;
    background-image: url("image../Phon.Rathana.jpeg") scroll left top;
    box-shadow: white;
    background-image: white;
@@ -15,8 +15,8 @@ body {
    margin: center;
  }
  #image {
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
     box-shadow: white;
     border-image: 300px;
     text-align: 0%;

@@ -7,10 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.icons8.com/fonts/line-awesome/1.1/css/line-awesome-font-awesome.min.css">
     <link rel="stylesheet" href="./css/style.css"> 
      <style>
-     * {
-         box-sizing: border-box;
-      }
-      html, body {
+         html, body {
          margin: 0;
          padding: 0;
       }
@@ -23,17 +20,24 @@
       }
       img {
          width: 100%;
-         height: 400px;
+         height: 300px;
+         box-shadow: white;
       }
       .image-description {
          padding: 0 15px 15px 15px;
          text-align: center;
       }
+        .Phon.Rathana.jpeg {
+         width: 400px;
+         height: 400px;
+         display: 400px;
+         min-width: 100%;
+      }
    </style>
 </haed>
 <body>  
       <div class="image-container">
-         <img src="images/My.photo.jpg"/>
+         <img src="images/Phon.Rathana.jpeg "/>
          <p class="image-description"> My.photo</p>
       </div>   
    </div>
