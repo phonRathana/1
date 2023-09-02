@@ -1,29 +1,29 @@
-       * { 
-               box-sizing: border-box; 
-           } 
-              html, body h1 {   
-                margin: 0px;   
-                color: Blue;  
-                margin: square;  
-                text-align: center;   
-           } 
-             image-container { 
-                margin: 0 auto; 
-                width: 80%; 
-                box-shadow: 0 30px 50px rgba(0,0,0,0.30), 0 11px 8px rgba(0,0,0,0.22);  
-                margin-bottom: 20px; 
-           } 
-              img { 
-                width: 50%; 
-                height: auto;  
-                margin: square;
-           }  
-             logo- logo-img ×1 { 
-                font-size: 100px;
-                width: auto;
-                height: auto;
-            }
-              p ur {
-               width: auto;
-               height: auto;
-          } 
+    * { 
+        box-sizing: border-box; 
+      } 
+        html, body h1 {   
+           margin: 0px;   
+           color: Blue;  
+           margin: square;  
+          text-align: center;   
+     } 
+         image-container { 
+            margin: 0 auto; 
+            width: 80%; 
+            box-shadow: 0 30px 50px rgba(0,0,0,0.30), 0 11px 8px rgba(0,0,0,0.22);  
+           margin-bottom: 20px; 
+      } 
+         img { 
+             width: 50%; 
+             height: auto;  
+             margin: square;
+      }  
+         logo- logo-img ×1 { 
+             font-size: 100px;
+             width: auto;
+             height: auto;
+       }
+          p ur {
+            width: auto;
+            height: auto;
+      } 
