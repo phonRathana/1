@@ -1,10 +1,9 @@
-body {
-  width: 300px;
-  height: 300px;
-  color:aliceblue;
-  background: 0%;
-  margin: 0px;
+.logo-logovko-img-1× {
+  box-shadow: white;
+  width: auto;
+  height: auto;
 }
+
  #Phon.Rathana.jpeg{
    width: 300px;
    height: 300px;
@@ -29,3 +28,15 @@ body {
     height: 0px;
 }
   
+
+.Phon.Rathana-logo.imag {
+  display: block;
+  width: 400px;
+  height: 4000px;
+  background-image: url("...image/Phon.Rathana.jpeg") scroll left top;
+  box-shadow: white;
+  background-image: white;
+  margin: center;
+ }
+
+
