@@ -1,0 +1,18 @@
+*  {
+      box-sizing: border-box;
+}
+   html, body h1 {  
+       margin: 0px;  
+       color: Blue; 
+       text-align: center;  
+}
+  .image-container {
+       margin: 0 auto;
+       width: 80%;
+       box-shadow: 0 15px 30px (0,0,0,0.30);
+       box-shadow: inset;
+}
+     img {
+        width: 350px;
+        height: 400px;
+}
